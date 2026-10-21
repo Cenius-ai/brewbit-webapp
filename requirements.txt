@@ -1,0 +1,2 @@
+# BrewBit has no third-party dependencies: it is Python 3.8+ standard library only.
+# This file exists so `pip install -r requirements.txt` is a valid, fast no-op.

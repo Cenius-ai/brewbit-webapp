@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "brewbit"
+version = "1.0.0"
+description = "Track espresso dosing, tasting notes, and green-coffee freshness from the terminal."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+brewbit = "brewbit:run"
+
+[tool.setuptools]
+py-modules = ["brewbit"]

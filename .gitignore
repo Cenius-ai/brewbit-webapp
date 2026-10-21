@@ -1,0 +1,16 @@
+# BrewBit: your local log, not source
+brewbit.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Tooling scratch
+.pytest_cache/
+.coverage
