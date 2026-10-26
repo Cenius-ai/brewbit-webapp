@@ -93,7 +93,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Folder layout: `tests/`. The setup script (`install.sh`) installs runtime dependencies and loads a starter dataset so the app is immediately usable. Built in Full-stack app (23 files). For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+Folder layout: `tests/`. The setup script (`install.sh`) installs runtime dependencies and loads a starter dataset so the app is immediately usable. Built in Full-stack app (13 files). For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
